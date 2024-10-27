@@ -36,8 +36,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [blog-preview-card github](https://github.com/biebettes/blog-preview-card.git)
-- Live Site URL: [blog-preview-card live site](https://biebettes.github.io/blog-preview-card/)
+- Solution URL: [blog-preview-card github](https://github.com/nehasaleemdesai/blog-preview-card.git)
+- Live Site URL: [blog-preview-card live site](https://nehasaleemdesai.github.io/blog-preview-card/)
 
 ## My process
 
